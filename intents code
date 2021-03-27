@@ -15,7 +15,6 @@ Intent i_register=new Intent(MainActivity.this,Register.class);
 startActivity(i_register);
 }
 
-9
 
 public void display_no(View v) {
 Intent i_view=new Intent(MainActivity.this,Display.class);
